@@ -1,0 +1,266 @@
+{
+ "USA": {
+  "Colorado": {
+   "trackers": [
+    {
+     "name": "Office of the Colorado State Public Defender",
+     "url": "https://www.coloradodefenders.us",
+     "desc": "Statewide public defender representing anyone accused of a crime who cannot afford counsel — 21 regional trial offices across 23 judicial districts, plus an Appellate Division in Denver.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    },
+    {
+     "name": "Colorado Office of the Alternate Defense Counsel",
+     "url": "https://www.coloradoadc.org",
+     "desc": "Provides court-appointed counsel in Colorado cases where the State Public Defender has a conflict of interest.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Conflict counsel",
+     "status": "active"
+    }
+   ]
+  },
+  "Connecticut": {
+   "trackers": [
+    {
+     "name": "Connecticut Division of Public Defender Services",
+     "url": "https://portal.ct.gov/OCPD",
+     "desc": "Statewide indigent defense agency, including a Capital Defense and Trial Services Unit and the Connecticut Innocence Project / Post-Conviction Unit.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Delaware": {
+   "trackers": [
+    {
+     "name": "Delaware Office of the Public Defender",
+     "url": "https://publicdefender.delaware.gov",
+     "desc": "Statewide public defender offices providing criminal defense to people who cannot afford an attorney.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Iowa": {
+   "trackers": [
+    {
+     "name": "Iowa State Public Defender",
+     "url": "https://spd.iowa.gov",
+     "desc": "State agency providing legal representation to indigent people charged with crimes in Iowa.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Kansas": {
+   "trackers": [
+    {
+     "name": "Kansas State Board of Indigents’ Defense Services",
+     "url": "https://www.sbids.org",
+     "desc": "Oversees and provides indigent criminal defense across Kansas.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Indigent defense board",
+     "status": "active"
+    }
+   ]
+  },
+  "Kentucky": {
+   "trackers": [
+    {
+     "name": "Kentucky Department of Public Advocacy",
+     "url": "https://dpa.ky.gov",
+     "desc": "Kentucky’s statewide public defender agency — also houses the Kentucky Innocence Project and a Capital Post-Conviction Unit.",
+     "tags": [
+      "defense:publicdefender",
+      "innocence:innocenceorg"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Louisiana": {
+   "trackers": [
+    {
+     "name": "Louisiana Public Defender Board",
+     "url": "https://lpdb.la.gov",
+     "desc": "Oversees Louisiana’s district public defender offices and statewide indigent defense delivery.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Indigent defense board",
+     "status": "active"
+    }
+   ]
+  },
+  "Mississippi": {
+   "trackers": [
+    {
+     "name": "Mississippi Office of the State Public Defender",
+     "url": "https://www.ospd.ms.gov",
+     "desc": "Statewide public defender office serving people charged with crimes who cannot afford counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    },
+    {
+     "name": "Mississippi Office of Capital Post-Conviction Counsel",
+     "url": "https://www.pcc.ms.gov",
+     "desc": "Represents people sentenced to death in Mississippi during post-conviction proceedings.",
+     "tags": [
+      "capital:deathrow",
+      "innocence:appeals"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Capital post-conviction",
+     "status": "active"
+    }
+   ]
+  },
+  "Missouri": {
+   "trackers": [
+    {
+     "name": "Missouri Office of the State Public Defender",
+     "url": "https://www.publicdefender.mo.gov",
+     "desc": "Missouri’s statewide public defender system providing trial, appellate and capital representation.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "West Virginia": {
+   "trackers": [
+    {
+     "name": "West Virginia Public Defender Services",
+     "url": "https://pds.wv.gov",
+     "desc": "State agency administering public defender corporations and appointed counsel across West Virginia.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Wisconsin": {
+   "trackers": [
+    {
+     "name": "Wisconsin State Public Defender",
+     "url": "https://www.wispd.gov",
+     "desc": "Statewide public defender with offices across Wisconsin, providing trial and appellate representation.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Minnesota": {
+   "trackers": [
+    {
+     "name": "Neighborhood Justice Center",
+     "url": "http://www.njcinc.org",
+     "desc": "Saint Paul nonprofit providing holistic criminal defense and support to low-income clients.",
+     "tags": [
+      "defense:counsel"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Community defense",
+     "status": "active"
+    },
+    {
+     "name": "Legal Rights Center",
+     "url": "http://www.legalrightscenter.org",
+     "desc": "Minneapolis community-based public defense and restorative-justice organisation.",
+     "tags": [
+      "defense:counsel"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Community defense",
+     "status": "active"
+    }
+   ]
+  },
+  "District of Columbia": {
+   "trackers": [
+    {
+     "name": "Public Defender Service for the District of Columbia",
+     "url": "https://www.pdsdc.org",
+     "desc": "Independent federally funded defender organisation representing indigent people in DC criminal and mental-health cases.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "District public defender",
+     "status": "active"
+    }
+   ]
+  }
+ }
+}
