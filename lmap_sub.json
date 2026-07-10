@@ -536,6 +536,147 @@
      "status": "active"
     }
    ]
+  },
+  "Los Angeles County": {
+   "trackers": [
+    {
+     "name": "Los Angeles County Public Defender",
+     "url": "https://pubdef.lacounty.gov",
+     "desc": "The first public defender agency in the United States (est. 1913) and the largest — represents adults, juveniles and people in mental-health proceedings in LA County who cannot afford private counsel. Runs record-clearing clinics across the county.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "LA County Alternate Public Defender",
+     "url": "https://apd.lacounty.gov",
+     "desc": "Handles Los Angeles County cases where the Public Defender has a conflict of interest — full criminal defense for indigent clients.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County alternate defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Harris County": {
+   "trackers": [
+    {
+     "name": "Harris County Public Defender’s Office",
+     "url": "https://hcpdo.org",
+     "desc": "Houston-area public defender (est. 2011) with a client-centered, holistic model and enforced caseload limits — lawyers, investigators and social workers working together; 37% of felony clients leave with no conviction.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Cook County": {
+   "trackers": [
+    {
+     "name": "Law Office of the Cook County Public Defender",
+     "url": "https://www.cookcountypublicdefender.org",
+     "desc": "Chicago’s public defender — one of the largest criminal-defense firms in the US with 450+ attorneys, representing tens of thousands of Cook County residents; runs Freedom Defense Centers connecting clients to community services.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "King County": {
+   "trackers": [
+    {
+     "name": "King County Department of Public Defense",
+     "url": "https://kingcounty.gov/en/dept/dpd",
+     "desc": "Seattle-area public defense for adults and youth who cannot afford an attorney — 24/7 on-call attorney line, financial screening without appointment, and a Blake Refund Bureau to vacate drug-possession records.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defense",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Orleans Parish": {
+   "trackers": [
+    {
+     "name": "Orleans Public Defenders",
+     "url": "https://www.opdla.org",
+     "desc": "New Orleans public defender representing ~85% of people charged in Orleans Parish (19,487 cases in 2025) — client-centered model with social workers, client advocates and mitigation planning, rebuilt after Hurricane Katrina into a national benchmark.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Parish public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Bronx County": {
+   "trackers": [
+    {
+     "name": "The Bronx Defenders",
+     "url": "https://www.bronxdefenders.org",
+     "desc": "Holistic public defender in the South Bronx (est. 1997) — criminal, civil, family and immigration lawyers plus social workers and advocates address the full fallout of a criminal charge. Winner of the NLADA Clara Shortridge Foltz Award.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Holistic public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Kings County": {
+   "trackers": [
+    {
+     "name": "Brooklyn Defender Services",
+     "url": "https://bds.org",
+     "desc": "Public defense for Brooklyn (and, since July 2025, Queens criminal cases) — free criminal, family, immigration and civil defense, with advocacy on housing, benefits, education and employment.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Borough public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
   }
  },
  "AUS": {
