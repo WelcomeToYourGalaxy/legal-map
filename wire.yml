@@ -1,0 +1,30 @@
+name: Global Wire harvest
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # every 6 hours
+  workflow_dispatch: {}       # allow manual runs
+permissions:
+  contents: write
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: pip install feedparser
+      - name: Harvest wire
+        run: python3 wire_harvest.py
+      - name: Commit archive
+        run: |
+          git config user.name  "wire-bot"
+          git config user.email "wire-bot@users.noreply.github.com"
+          git add wire_archive.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "wire: refresh archive [skip ci]"
+            git push
+          fi
