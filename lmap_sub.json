@@ -242,6 +242,19 @@
      "kind": "institution",
      "focus": "Community defense",
      "status": "active"
+    },
+    {
+     "name": "Minnesota Board of Public Defense",
+     "url": "https://www.pubdef.state.mn.us",
+     "desc": "Oversees Minnesota’s statewide and district public defender offices.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defense board",
+     "status": "active"
     }
    ]
   },
@@ -258,6 +271,845 @@
      "type": "institutional",
      "kind": "institution",
      "focus": "District public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Montana": {
+   "trackers": [
+    {
+     "name": "Montana Office of the State Public Defender",
+     "url": "https://publicdefender.mt.gov",
+     "desc": "Statewide public defender with four divisions and over 20 offices — represents not only people accused of crimes but parents and children in child-welfare cases, elderly people losing autonomy, and people facing civil commitment.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    },
+    {
+     "name": "Montana Innocence Project",
+     "url": "https://mtinnocenceproject.org",
+     "desc": "Investigates and litigates claims of actual innocence in Montana.",
+     "tags": [
+      "innocence:innocenceorg"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Innocence project",
+     "status": "active"
+    }
+   ]
+  },
+  "Massachusetts": {
+   "trackers": [
+    {
+     "name": "Committee for Public Counsel Services (CPCS)",
+     "url": "https://www.publiccounsel.net",
+     "desc": "Massachusetts’ statewide public defender agency, providing trial and appellate representation through staff attorneys and assigned counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Washington": {
+   "trackers": [
+    {
+     "name": "Washington State Office of Public Defense",
+     "url": "https://www.opd.wa.gov",
+     "desc": "Administers and improves indigent defense across Washington State’s trial and appellate courts.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defense agency",
+     "status": "active"
+    }
+   ]
+  },
+  "Vermont": {
+   "trackers": [
+    {
+     "name": "Vermont Office of the Defender General",
+     "url": "https://defgen.vermont.gov",
+     "desc": "Statewide public defense and assigned counsel for Vermonters who cannot afford an attorney.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Virginia": {
+   "trackers": [
+    {
+     "name": "Virginia Indigent Defense Commission",
+     "url": "https://www.publicdefender.state.va.us",
+     "desc": "Operates Virginia’s public defender offices and sets standards for court-appointed counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Rhode Island": {
+   "trackers": [
+    {
+     "name": "Rhode Island Public Defender",
+     "url": "https://www.ripd.org",
+     "desc": "Statewide public defender providing criminal, juvenile and appellate representation.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "South Carolina": {
+   "trackers": [
+    {
+     "name": "South Carolina Commission on Indigent Defense",
+     "url": "https://www.sccid.sc.gov",
+     "desc": "Administers indigent criminal defense across South Carolina’s circuits.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Indigent defense commission",
+     "status": "active"
+    },
+    {
+     "name": "Justice 360",
+     "url": "https://justice360sc.org",
+     "desc": "South Carolina nonprofit representing people facing the death penalty, serving long sentences, or sentenced as children.",
+     "tags": [
+      "capital:deathrow",
+      "capital:extreme"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Capital & extreme sentences",
+     "status": "active"
+    }
+   ]
+  },
+  "Maryland": {
+   "trackers": [
+    {
+     "name": "Maryland Office of the Public Defender",
+     "url": "https://www.opd.state.md.us",
+     "desc": "Statewide public defender providing representation in criminal, juvenile and appellate matters.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Michigan": {
+   "trackers": [
+    {
+     "name": "Michigan State Appellate Defender Office (SADO)",
+     "url": "https://www.sado.org",
+     "desc": "Provides appellate defense to indigent Michigan defendants and maintains a national criminal defense resource library.",
+     "tags": [
+      "defense:publicdefender",
+      "innocence:appeals"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State appellate defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Nebraska": {
+   "trackers": [
+    {
+     "name": "Federal Public Defender — District of Nebraska",
+     "url": "https://ne.fd.org",
+     "desc": "Federal defender office representing people charged with federal crimes in Nebraska who cannot afford counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Federal defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Nevada": {
+   "trackers": [
+    {
+     "name": "Federal Public Defender — District of Nevada",
+     "url": "https://fpdnevada.org",
+     "desc": "Federal defender office for the District of Nevada.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Federal defender",
+     "status": "active"
+    },
+    {
+     "name": "Rocky Mountain Innocence Center",
+     "url": "https://rminnocence.org",
+     "desc": "Investigates wrongful convictions in Nevada, Utah and Wyoming.",
+     "tags": [
+      "innocence:innocenceorg"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Regional innocence project",
+     "status": "active"
+    }
+   ]
+  },
+  "Tennessee": {
+   "trackers": [
+    {
+     "name": "Nashville Office of the Public Defender",
+     "url": "https://publicdefender.nashville.gov",
+     "desc": "Metropolitan public defender for Nashville and Davidson County.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Metro public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Georgia": {
+   "trackers": [
+    {
+     "name": "Georgia Innocence Project",
+     "url": "https://www.georgiainnocenceproject.org",
+     "desc": "Nonprofit representing Georgia’s wrongfully convicted — has freed and exonerated 16 people, reviews hundreds of assistance requests each year, and litigates dozens of active innocence cases.",
+     "tags": [
+      "innocence:innocenceorg"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "State innocence project",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "AUS": {
+  "Victoria": {
+   "trackers": [
+    {
+     "name": "Victoria Legal Aid",
+     "url": "https://www.legalaid.vic.gov.au",
+     "desc": "Statutory legal aid body for Victoria — duty lawyers at courts and tribunals across the state, a Legal Help phone line and live chat, with services in 34 languages.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "New South Wales": {
+   "trackers": [
+    {
+     "name": "Legal Aid NSW",
+     "url": "https://www.legalaid.nsw.gov.au",
+     "desc": "Statutory legal aid commission for New South Wales, providing criminal, family and civil representation to people who cannot afford a lawyer.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Queensland": {
+   "trackers": [
+    {
+     "name": "Legal Aid Queensland",
+     "url": "https://www.legalaid.qld.gov.au",
+     "desc": "Provides legal assistance to financially disadvantaged Queenslanders, including criminal defence and duty lawyer services.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Western Australia": {
+   "trackers": [
+    {
+     "name": "Legal Aid Western Australia",
+     "url": "https://www.legalaid.wa.gov.au",
+     "desc": "Statutory legal aid commission for Western Australia.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "South Australia": {
+   "trackers": [
+    {
+     "name": "Legal Services Commission of South Australia",
+     "url": "https://www.lsc.sa.gov.au",
+     "desc": "South Australia’s statutory legal aid provider, offering criminal defence and legal advice services.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Tasmania": {
+   "trackers": [
+    {
+     "name": "Tasmania Legal Aid",
+     "url": "https://www.legalaid.tas.gov.au",
+     "desc": "Statutory legal aid commission for Tasmania.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Northern Territory": {
+   "trackers": [
+    {
+     "name": "Legal Aid Northern Territory",
+     "url": "https://www.legalaid.nt.gov.au",
+     "desc": "Northern Territory Legal Aid Commission — criminal, family and civil legal assistance.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Territory legal aid",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "CAN": {
+  "Ontario": {
+   "trackers": [
+    {
+     "name": "Legal Aid Ontario",
+     "url": "https://www.legalaid.on.ca",
+     "desc": "Provides legal help in English and French to financially eligible low-income Ontarians — criminal duty counsel, certificates for private lawyers, and a Service Finder for local legal clinics and courthouses.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Alberta": {
+   "trackers": [
+    {
+     "name": "Legal Aid Alberta",
+     "url": "https://www.legalaid.ab.ca",
+     "desc": "Provincial legal aid for Albertans who cannot afford a lawyer — criminal defence, family and protection matters, with a lawyer directory for applicants.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "British Columbia": {
+   "trackers": [
+    {
+     "name": "Legal Aid BC",
+     "url": "https://legalaid.bc.ca",
+     "desc": "Free legal information, advice and representation for BC residents — 34 community offices, Legal Aid Navigators, Parents Legal Centres and First Nations/Indigenous Courts.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Saskatchewan": {
+   "trackers": [
+    {
+     "name": "Legal Aid Saskatchewan",
+     "url": "https://legalaid.sk.ca",
+     "desc": "Provides criminal and civil legal services to people financially unable to afford counsel, with offices across the province.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Manitoba": {
+   "trackers": [
+    {
+     "name": "Legal Aid Manitoba",
+     "url": "https://www.legalaid.mb.ca",
+     "desc": "Pays for or helps pay for a lawyer for adults and youth facing criminal charges, and for family and social-benefits matters.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Quebec": {
+   "trackers": [
+    {
+     "name": "Commission des services juridiques (Québec)",
+     "url": "https://www.csj.qc.ca/commission-des-services-juridiques/accueil.aspx?lang=en",
+     "desc": "The agency responsible for ensuring legal aid is provided to every eligible person in Quebec; applications are made at the local legal aid office.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "New Brunswick": {
+   "trackers": [
+    {
+     "name": "Legal Aid New Brunswick (NBLASC)",
+     "url": "https://www.legalaid-aidejuridique-nb.ca",
+     "desc": "Provides legal assistance to low-income people in criminal and certain family matters; applications are completed at the legal aid office.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Nova Scotia": {
+   "trackers": [
+    {
+     "name": "Nova Scotia Legal Aid",
+     "url": "https://www.nslegalaid.ca",
+     "desc": "Thirteen community-based law offices providing criminal, family and civil legal services; applications can be made online.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Newfoundland and Labrador": {
+   "trackers": [
+    {
+     "name": "Newfoundland and Labrador Legal Aid Commission",
+     "url": "https://www.legalaid.nl.ca",
+     "desc": "Ensures people with limited financial means have access to legal counsel across Newfoundland and Labrador.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Nunavut": {
+   "trackers": [
+    {
+     "name": "Nunavut Legal Aid (Legal Services Board)",
+     "url": "https://nulas.ca",
+     "desc": "Legal Services Board of Nunavut — criminal, family and poverty law services across the territory.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Territorial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Northwest Territories": {
+   "trackers": [
+    {
+     "name": "NWT Legal Aid Commission",
+     "url": "https://www.justice.gov.nt.ca/en/boards-agencies/legal-aid-commission/",
+     "desc": "Oversees legal aid clinics in every administrative region of the Northwest Territories.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Territorial legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "Yukon": {
+   "trackers": [
+    {
+     "name": "Yukon Legal Services Society",
+     "url": "https://www.yukonlegalaid.ca",
+     "desc": "Territorial legal aid for Yukon residents facing criminal charges and family matters.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Territorial legal aid",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "GBR": {
+  "Scotland": {
+   "trackers": [
+    {
+     "name": "Scottish Legal Aid Board (SLAB)",
+     "url": "https://www.slab.org.uk",
+     "desc": "Administers publicly funded legal assistance in Scotland under the Legal Aid (Scotland) Act 1986 — criminal and civil legal aid, eligibility checks and a solicitor finder.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Scottish legal aid",
+     "status": "active"
+    }
+   ]
+  },
+  "England": {
+   "trackers": [
+    {
+     "name": "Legal Aid Agency (England & Wales)",
+     "url": "https://www.gov.uk/government/organisations/legal-aid-agency",
+     "desc": "Executive agency of the Ministry of Justice administering the legal aid scheme in England and Wales, and funder of the Public Defender Service.",
+     "tags": [
+      "defense:legalaid",
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Legal aid administrator",
+     "status": "active"
+    }
+   ]
+  },
+  "Wales": {
+   "trackers": [
+    {
+     "name": "Legal Aid Agency — Wales",
+     "url": "https://www.gov.uk/check-legal-aid",
+     "desc": "Check eligibility for legal aid in England and Wales and connect to Civil Legal Advice; Welsh-language advisers available.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Legal aid eligibility check",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "ZAF": {
+  "Gauteng": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — Gauteng",
+     "url": "https://legal-aid.co.za/gauteng/",
+     "desc": "Provincial office list for Legal Aid South Africa in Gauteng — local and satellite offices near the courts they serve, with heads of office and contact details.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  },
+  "Western Cape": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — Western Cape",
+     "url": "https://legal-aid.co.za/western-cape/",
+     "desc": "Legal Aid South Africa’s Western Cape local and satellite offices, including court-based access points.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  },
+  "Eastern Cape": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — Eastern Cape",
+     "url": "https://legal-aid.co.za/eastern-cape/",
+     "desc": "Legal Aid South Africa’s Eastern Cape local and satellite offices with contact details.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  },
+  "KwaZulu-Natal": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — KwaZulu-Natal",
+     "url": "https://legal-aid.co.za/kwazulu-natal/",
+     "desc": "Legal Aid South Africa’s KwaZulu-Natal provincial, local and satellite offices — Durban, Pinetown, Empangeni and rural access points, with heads of office and contact details.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  },
+  "Limpopo": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — Limpopo",
+     "url": "https://legal-aid.co.za/limpopo/",
+     "desc": "Legal Aid South Africa’s Limpopo offices, including Louis Trichardt, Musina, Modimolle and Lephalale.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  },
+  "Mpumalanga": {
+   "trackers": [
+    {
+     "name": "Legal Aid SA — Mpumalanga",
+     "url": "https://legal-aid.co.za/mpumalanga/",
+     "desc": "Legal Aid South Africa’s Mpumalanga offices — including one inside the Mpumalanga High Court building at Mbombela.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Provincial legal aid offices",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "IND": {
+  "Delhi": {
+   "trackers": [
+    {
+     "name": "Delhi State Legal Services Authority (DSLSA)",
+     "url": "https://delhi.nalsa.gov.in",
+     "desc": "Constituted under the Legal Services Authorities Act 1987 — free legal services to marginalised people, legal aid for accused persons through the Legal Aid Defense Counsel System and district advocate panels, victim compensation, and Lok Adalats.",
+     "tags": [
+      "defense:legalaid",
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal services authority",
+     "status": "active"
+    }
+   ]
+  },
+  "Maharashtra": {
+   "trackers": [
+    {
+     "name": "Maharashtra State Legal Services Authority (MSLSA)",
+     "url": "https://maharashtra.nalsa.gov.in",
+     "desc": "State legal services authority giving effect to Articles 14 and 39-A of the Indian Constitution — free legal aid and Lok Adalats under the object “Access to Justice for All”.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal services authority",
+     "status": "active"
+    }
+   ]
+  },
+  "Tamil Nadu": {
+   "trackers": [
+    {
+     "name": "Tamil Nadu State Legal Services Authority (TNSLSA)",
+     "url": "https://tamilnadu.nalsa.gov.in",
+     "desc": "Provides free legal aid under Article 39-A so that justice is not denied to any citizen by reason of poverty or disability.",
+     "tags": [
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State legal services authority",
+     "status": "active"
+    }
+   ]
+  }
+ },
+ "BRA": {
+  "São Paulo": {
+   "trackers": [
+    {
+     "name": "Defensoria Pública do Estado de São Paulo (DPESP)",
+     "url": "https://www.defensoria.sp.def.br",
+     "desc": "Free and comprehensive legal assistance to people who cannot afford a lawyer — criminal defence, judicial and extrajudicial representation in state courts, with unit addresses and a free 0800 booking line.",
+     "tags": [
+      "defense:publicdefender",
+      "defense:legalaid"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
+     "status": "active"
+    }
+   ]
+  },
+  "Rio de Janeiro": {
+   "trackers": [
+    {
+     "name": "Defensoria Pública do Estado do Rio de Janeiro (DPRJ)",
+     "url": "https://defensoria.rj.def.br",
+     "desc": "Public institution offering free, comprehensive legal assistance and guidance to citizens who cannot pay, and defending human rights and the rights of people in vulnerable situations.",
+     "tags": [
+      "defense:publicdefender",
+      "rights:humanrights"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State public defender",
      "status": "active"
     }
    ]
