@@ -1792,6 +1792,42 @@
      "status": "active"
     }
    ]
+  },
+  "Charleston County": {
+   "trackers": [
+    {
+     "name": "Charleston County Public Defender (SCCID)",
+     "url": "https://sccid.sc.gov/about-us/county-public-defenders/charleston",
+     "desc": "Charleston County public defender — part of South Carolina’s county-based circuit system under the Commission on Indigent Defense; court-appointed criminal defense for people who cannot afford counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Richland County": {
+   "trackers": [
+    {
+     "name": "Richland County Public Defender (SCCID)",
+     "url": "https://sccid.sc.gov/about-us/county-public-defenders/richland",
+     "desc": "Columbia / Richland County public defender — part of South Carolina’s county-based circuit system under the Commission on Indigent Defense; criminal defense for indigent defendants.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
   }
  },
  "AUS": {
