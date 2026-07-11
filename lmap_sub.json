@@ -503,23 +503,6 @@
     }
    ]
   },
-  "Tennessee": {
-   "trackers": [
-    {
-     "name": "Nashville Office of the Public Defender",
-     "url": "https://publicdefender.nashville.gov",
-     "desc": "Metropolitan public defender for Nashville and Davidson County.",
-     "tags": [
-      "defense:publicdefender"
-     ],
-     "voice": "official",
-     "type": "institutional",
-     "kind": "institution",
-     "focus": "Metro public defender",
-     "status": "active"
-    }
-   ]
-  },
   "Georgia": {
    "trackers": [
     {
@@ -673,6 +656,1138 @@
      "type": "advocacy-opinion",
      "kind": "advocacy",
      "focus": "Borough public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "New York County": {
+   "trackers": [
+    {
+     "name": "New York County Defender Services (NYCDS)",
+     "url": "https://nycds.org",
+     "desc": "Manhattan’s public defender since 1997 — 70+ trial attorneys plus social workers and investigators defending people in Manhattan Criminal and Supreme Courts at no cost, with social-service support built in.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Manhattan public defender",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "Neighborhood Defender Service of Harlem",
+     "url": "https://neighborhooddefender.org",
+     "desc": "Community-based, holistic public defense in Northern Manhattan — an early pioneer of the team-defense model integrating criminal, civil and family representation with community advocacy.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Holistic community defense",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "San Francisco": {
+   "trackers": [
+    {
+     "name": "San Francisco Public Defender",
+     "url": "https://sfpublicdefender.org",
+     "desc": "City-and-county public defender since 1921 — defends indigent people charged under California law, runs a Clean Slate record-clearing program and an immigration unit, and has exposed police misconduct leading to dropped cases.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "City-county public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Philadelphia": {
+   "trackers": [
+    {
+     "name": "Defender Association of Philadelphia",
+     "url": "https://phillydefenders.org",
+     "desc": "Philadelphia’s public defender since 1934 — a nonprofit law firm with an integrated team of lawyers, social workers, mitigation specialists and investigators representing indigent adults and juveniles in criminal, delinquency and dependency cases, plus reentry and record-clearing programs.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "City public defender",
+     "tier": "municipal",
+     "status": "active"
+    }
+   ]
+  },
+  "Alameda County": {
+   "trackers": [
+    {
+     "name": "Alameda County Public Defender",
+     "url": "https://publicdefender.acgov.org",
+     "desc": "Oakland-area public defender — primary defense counsel for indigent people facing incarceration in Alameda County, with client-centered representation, wrap-around services and a Clean Slate record-clearing program. Led by Brendon D. Woods.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Miami-Dade County": {
+   "trackers": [
+    {
+     "name": "Miami-Dade Public Defender (11th Judicial Circuit)",
+     "url": "https://www.pdmiami.com",
+     "desc": "Public defender for Florida’s 11th Judicial Circuit, handling ~75,000 cases a year — represents indigent people facing loss of liberty, with community-education programs and reentry help to seal/expunge records and restore civil rights.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Maricopa County": {
+   "trackers": [
+    {
+     "name": "Maricopa County Office of the Public Defender",
+     "url": "https://www.maricopa.gov/558/Public-Defender",
+     "desc": "Phoenix-area public defender — effective legal representation for indigent people facing criminal charges and mental-health commitments in Maricopa County Superior and Justice Courts.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Travis County": {
+   "trackers": [
+    {
+     "name": "Travis County Public Defender’s Office",
+     "url": "https://www.traviscountytx.gov/public-defender",
+     "desc": "Austin-area public defender providing indigent criminal defense in Travis County, Texas.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "San Diego County": {
+   "trackers": [
+    {
+     "name": "San Diego County Office of the Public Defender",
+     "url": "https://www.sandiegocounty.gov/content/sdc/public_defender.html",
+     "desc": "San Diego County’s indigent defense — four ethically-walled offices (Primary, Alternate, Multiple Conflicts, Assigned Counsel) with mental-health and juvenile units; filed 5,000+ Prop 47 petitions to reduce felony convictions.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Hennepin County": {
+   "trackers": [
+    {
+     "name": "Hennepin County Public Defender",
+     "url": "https://www.hennepinpublicdefender.org",
+     "desc": "Minneapolis / Fourth Judicial District public defender — represents juveniles and adults in misdemeanor, gross-misdemeanor and felony cases from arraignment through trial, sentencing and probation violations. Funded by both Minnesota and Hennepin County.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Allegheny County": {
+   "trackers": [
+    {
+     "name": "Allegheny County Office of the Public Defender",
+     "url": "https://www.alleghenycounty.us/Government/Court-Related/Public-Defender",
+     "desc": "Pittsburgh / Allegheny County public defender — provides legal counsel in any proceeding where representation is constitutionally required for people who cannot afford a lawyer.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Fulton County": {
+   "trackers": [
+    {
+     "name": "Office of the Public Defender, Atlanta Judicial Circuit",
+     "url": "https://www.fultoncountyga.gov/inside-fulton-county/fulton-county-departments/public-defender",
+     "desc": "Public defender for Fulton County / Atlanta (est. 1967) with 200+ staff across three locations — divisions for trials, appeals, juvenile, probation revocation and misdemeanors, representing indigent people from initial appearance through appeal.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Atlanta": {
+   "trackers": [
+    {
+     "name": "City of Atlanta Public Defender",
+     "url": "https://atldefenders.atlantaga.gov",
+     "desc": "The City of Atlanta’s municipal public defender — represents people charged in Atlanta Municipal Court who cannot afford counsel, a city-level office separate from the Fulton County / circuit defender.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "City public defender",
+     "tier": "municipal",
+     "status": "active"
+    }
+   ]
+  },
+  "Sacramento County": {
+   "trackers": [
+    {
+     "name": "Sacramento County Office of the Public Defender",
+     "url": "https://publicdefender.saccounty.gov",
+     "desc": "Serving Sacramento County since 1948 — free defense in adult criminal, juvenile-delinquency and mental-health conservatorship cases, with a whole-person approach across seven divisions.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Riverside County": {
+   "trackers": [
+    {
+     "name": "Riverside County Office of the Public Defender",
+     "url": "https://publicdef.co.riverside.ca.us",
+     "desc": "Riverside County public defender — court-appointed defense for people who cannot afford a private attorney in California state courts.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Santa Clara County": {
+   "trackers": [
+    {
+     "name": "Santa Clara County Public Defender",
+     "url": "https://publicdefender.sccgov.org",
+     "desc": "San Jose / Silicon Valley public defender — indigent criminal defense across Santa Clara County with multiple office locations.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Contra Costa County": {
+   "trackers": [
+    {
+     "name": "Contra Costa County Public Defender",
+     "url": "https://www.cocopublicdefenders.org",
+     "desc": "Contra Costa County (East Bay) public defender — court-appointed criminal defense for indigent residents.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "San Bernardino County": {
+   "trackers": [
+    {
+     "name": "San Bernardino County Public Defender",
+     "url": "https://pd.sbcounty.gov",
+     "desc": "San Bernardino County public defender — indigent criminal defense across California’s largest county by area, with multiple locations.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Erie County": {
+   "trackers": [
+    {
+     "name": "Legal Aid Bureau of Buffalo",
+     "url": "https://legalaidbuffalo.org",
+     "desc": "Erie County / Buffalo’s criminal-defense and civil legal-aid provider (est. ~1902) — represents indigent people charged with violations, misdemeanors and felonies in Buffalo, handles indigent criminal appeals across Western NY, and runs a reentry unit for record-sealing and civil-disability relief.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County legal aid / defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Dallas County": {
+   "trackers": [
+    {
+     "name": "Dallas County Public Defender’s Office",
+     "url": "https://www.dallascounty.org/government/public-defender/",
+     "desc": "Dallas County public defender — handles everything from misdemeanors to murder trials, with criminal, mental-health, appellate, DNA and capital divisions, plus juvenile, CPS and family units; represents people the courts have found indigent.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Bexar County": {
+   "trackers": [
+    {
+     "name": "Bexar County Public Defender’s Office",
+     "url": "https://www.bexar.org/1041/Public-Defenders-Office",
+     "desc": "San Antonio / Bexar County public defender — client-centered, trauma-informed representation with divisions for misdemeanors, felonies, mental-health cases, magistration/bail hearings, appeals and post-conviction relief.",
+     "tags": [
+      "defense:publicdefender",
+      "pretrial:bail"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Multnomah County": {
+   "trackers": [
+    {
+     "name": "Metropolitan Public Defender (Portland)",
+     "url": "https://mpdlaw.com",
+     "desc": "The largest trial-level public defender in Oregon (est. 1971, nonprofit) — serves Multnomah and Washington counties across criminal, juvenile, mental-health and specialty courts, plus a Community Law Division for record expungement, felony reduction and civil legal services.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Regional public defender",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "Multnomah Defenders, Inc.",
+     "url": "https://multnomahdefenders.org",
+     "desc": "Portland nonprofit public-defense firm — criminal, juvenile and appellate representation for indigent people in Multnomah County.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Pierce County": {
+   "trackers": [
+    {
+     "name": "Pierce County Department of Assigned Counsel",
+     "url": "https://www.piercecountywa.gov",
+     "desc": "Tacoma / Pierce County’s public-defense department (Department of Assigned Counsel) — provides indigent criminal and juvenile defense and also serves the municipal courts of Tacoma, Gig Harbor and Fircrest. (Listed in the Washington State Office of Public Defense directory.)",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defense",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Snohomish County": {
+   "trackers": [
+    {
+     "name": "Snohomish County Public Defender Association",
+     "url": "https://www.snocopda.org",
+     "desc": "Everett-area nonprofit public defender — indigent criminal defense for Snohomish County residents.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Spokane County": {
+   "trackers": [
+    {
+     "name": "Spokane County Public Defender",
+     "url": "https://www.spokanecounty.gov/directory.aspx?did=30",
+     "desc": "Spokane County’s public-defender office — indigent criminal defense in eastern Washington. (Listed in the Washington State Office of Public Defense directory.)",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Mecklenburg County": {
+   "trackers": [
+    {
+     "name": "Mecklenburg Defenders",
+     "url": "https://www.mecklenburgdefenders.org",
+     "desc": "Charlotte / Mecklenburg County public defender — top-quality criminal representation for people who cannot afford private counsel, part of North Carolina’s statewide defender system.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Clark County|Nevada": {
+   "trackers": [
+    {
+     "name": "Clark County Public Defender",
+     "url": "https://www.clarkcountynv.gov/government/departments/public_defender/",
+     "desc": "The largest criminal-defense firm in Nevada, serving Las Vegas and Clark County — specialized teams for juvenile, homicide, sexual-assault and appellate work; qualified for death-penalty defense under Nevada Supreme Court Rule 250.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Jefferson County|Kentucky": {
+   "trackers": [
+    {
+     "name": "Louisville–Jefferson County Public Defenders (KY DPA)",
+     "url": "https://dpa.ky.gov/kentucky-department-of-public-advocacy/findhelp/find-a-dpa-office/jefferson-county-trial-office/",
+     "desc": "The Kentucky Department of Public Advocacy’s Louisville Trial Office — serves indigent clients in Jefferson County. (Assumed these services on 1 July 2024 when the former Louisville-Metro Public Defender Corporation was dissolved under HB 568.)",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County trial office",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Monroe County|New York": {
+   "trackers": [
+    {
+     "name": "Monroe County Public Defender",
+     "url": "https://www.monroecounty.gov/defender",
+     "desc": "Rochester / Monroe County public defender — client-centered defense in criminal, family and appellate matters, with attorneys, social workers and investigators working as a team.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "Monroe County Conflict Defender",
+     "url": "https://www.monroecounty.gov/cd",
+     "desc": "Created in 2003 to represent Monroe County clients where the Public Defender has a conflict of interest — criminal and family court cases in Rochester City Court, Family Court and state appellate courts.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Conflict defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Wayne County|Michigan": {
+   "trackers": [
+    {
+     "name": "Wayne County Indigent Defense Services (IDSD)",
+     "url": "https://www.waynecountymi.gov/Government/Departments/Indigent-Defense-Services",
+     "desc": "Detroit / Wayne County’s indigent-defense department (launched 2020) — manages the county public-defender and assigned-counsel systems for felony criminal defense.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County indigent defense",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "Neighborhood Defender Service of Detroit",
+     "url": "https://neighborhooddefender.org/locations/detroit/",
+     "desc": "Holistic felony defense for Wayne County residents — attorneys, staff investigators and social workers working as a team so no one is convicted because they are poor; part of the national NDS model.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Holistic county defense",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Franklin County|Ohio": {
+   "trackers": [
+    {
+     "name": "Franklin County Public Defender (Columbus)",
+     "url": "https://www.franklincountyohio.gov/Agency-Directory/Public-Defender",
+     "desc": "Columbus / Franklin County public defender — comprehensive representation in criminal, juvenile and custody proceedings for indigent people, fulfilling the constitutional mandate of equal justice.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Hamilton County|Ohio": {
+   "trackers": [
+    {
+     "name": "Hamilton County Public Defender (Cincinnati)",
+     "url": "https://www.hamiltoncountyohio.gov/government/courts/public_defenders_office/index.php",
+     "desc": "Cincinnati / Hamilton County public defender — zealous, ethical defense protecting the statutory and constitutional rights of indigent clients.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Butler County|Ohio": {
+   "trackers": [
+    {
+     "name": "Butler County Public Defender",
+     "url": "https://publicdefender.bcohio.gov",
+     "desc": "Butler County, Ohio public defender (Hamilton, OH) — indigent criminal defense for county residents.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Marion County|Indiana": {
+   "trackers": [
+    {
+     "name": "Marion County Public Defender Agency (Indianapolis)",
+     "url": "https://www.indy.gov/agency/marion-county-public-defender-agency",
+     "desc": "Indianapolis / Marion County public defender — an independent agency representing indigent people in felony, misdemeanor, problem-solving and family courts and on appeal, with paralegal, investigator and social-worker support teams.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Davidson County|Tennessee": {
+   "trackers": [
+    {
+     "name": "Public Defender of Metropolitan Nashville & Davidson County",
+     "url": "https://publicdefender.nashville.gov",
+     "desc": "Metropolitan public defender for Nashville and Davidson County.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Metro public defender",
+     "status": "active",
+     "tier": "county"
+    }
+   ]
+  },
+  "Shelby County|Tennessee": {
+   "trackers": [
+    {
+     "name": "Law Office of the Shelby County Public Defender (Memphis)",
+     "url": "https://www.defendshelbyco.org",
+     "desc": "Memphis / Shelby County public defender — established 1917 as the first public defender east of the Mississippi; high-quality, client-centered defense for indigent people, a longtime regional and national leader in equal justice.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Cuyahoga County|Ohio": {
+   "trackers": [
+    {
+     "name": "Cuyahoga County Public Defender (Cleveland)",
+     "url": "https://publicdefender.cuyahogacounty.gov",
+     "desc": "Cleveland / Cuyahoga County public defender — felony, misdemeanor (Cleveland & Lakewood municipal courts), juvenile, appellate and child-welfare defense, plus record sealing/expungement and post-conviction relief.",
+     "tags": [
+      "defense:publicdefender",
+      "reentry:recordclearing"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "St. Louis City|Missouri": {
+   "trackers": [
+    {
+     "name": "Missouri State Public Defender — St. Louis City District",
+     "url": "https://publicdefender.mo.gov/st-louis-city/",
+     "desc": "The Missouri State Public Defender’s St. Louis City trial office — indigent criminal defense for the City of St. Louis (part of Missouri’s statewide district-based defender system).",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "District public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Jackson County|Missouri": {
+   "trackers": [
+    {
+     "name": "Missouri State Public Defender — Kansas City (Jackson County)",
+     "url": "https://publicdefender.mo.gov/kansas-city/",
+     "desc": "The Missouri State Public Defender’s Kansas City trial office — indigent criminal defense for Jackson County (part of Missouri’s statewide district-based defender system).",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "District public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Pima County": {
+   "trackers": [
+    {
+     "name": "Pima County Public Defender (Tucson)",
+     "url": "https://www.pima.gov/272/Public-Defender",
+     "desc": "Tucson / Pima County public defender (est. 1970) — felony, juvenile-delinquency, dependency and appellate defense with investigators, social workers and mitigation specialists; handles cases up to capital homicide.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Salt Lake County": {
+   "trackers": [
+    {
+     "name": "Salt Lake Legal Defender Association",
+     "url": "https://www.sllda.com",
+     "desc": "Salt Lake County’s nonprofit public defender (est. 1965) — holistic, client-centered representation in all felony, misdemeanor and specialized juvenile cases; 198+ staff funded by Salt Lake County and City.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "County legal defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Tucson": {
+   "trackers": [
+    {
+     "name": "City of Tucson Public Defender",
+     "url": "https://www.tucsonaz.gov/Departments/Tucson-City-Court/Public-Defender",
+     "desc": "The City of Tucson’s municipal public defender — represents indigent people facing criminal prosecution in Tucson City Court, distinct from the Pima County defender.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "City public defender",
+     "tier": "municipal",
+     "status": "active"
+    }
+   ]
+  },
+  "Denver": {
+   "trackers": [
+    {
+     "name": "Colorado State Public Defender — Denver Trial Office",
+     "url": "https://www.coloradodefenders.us/offices/denver/",
+     "desc": "The Denver trial office of the Colorado State Public Defender — part of an independent statewide system (est. 1970) of 21 regional offices serving all 64 Colorado counties; client-centered defense for people who cannot afford counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "State PD Denver office",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "DeKalb County|Georgia": {
+   "trackers": [
+    {
+     "name": "Law Office of the DeKalb County Public Defender",
+     "url": "https://www.dekalbcountyga.gov/law-office-public-defender",
+     "desc": "DeKalb County / Stone Mountain Judicial Circuit public defender (metro Atlanta) — 100+ staff providing zealous defense in all criminal cases, including youth prosecuted as adults and death-penalty cases.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Broward County": {
+   "trackers": [
+    {
+     "name": "Public Defender, 17th Judicial Circuit (Broward)",
+     "url": "https://www.browarddefender.org",
+     "desc": "Fort Lauderdale / Broward County public defender (Florida’s 17th Judicial Circuit) — defends indigent people in cases from misdemeanors to capital crimes, with evidence-based rehabilitation programs to reduce recidivism.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Orange County|Florida": {
+   "trackers": [
+    {
+     "name": "Public Defender, 9th Judicial Circuit (Orange–Osceola)",
+     "url": "https://pd9.org",
+     "desc": "Orlando-area public defender (Florida’s 9th Judicial Circuit, serving Orange and Osceola counties) — indigent criminal defense including a dedicated Children’s Defense Division.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Hillsborough County|Florida": {
+   "trackers": [
+    {
+     "name": "Public Defender, 13th Judicial Circuit (Hillsborough)",
+     "url": "https://www.pd13.state.fl.us",
+     "desc": "Tampa / Hillsborough County public defender (Florida’s 13th Judicial Circuit) — the largest criminal-defense firm in the county with 220+ staff and 120+ attorneys; holistic model addressing homelessness, mental health and addiction alongside the case.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Palm Beach County": {
+   "trackers": [
+    {
+     "name": "Public Defender, 15th Judicial Circuit (Palm Beach)",
+     "url": "https://pd15.org",
+     "desc": "Palm Beach County public defender (Florida’s 15th Judicial Circuit) — indigent criminal defense for people who cannot afford private counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Duval County|Florida": {
+   "trackers": [
+    {
+     "name": "Public Defender, 4th Judicial Circuit (Duval)",
+     "url": "https://www.pd4th.org",
+     "desc": "Jacksonville / Duval County public defender (Florida’s 4th Judicial Circuit, also serving Clay and Nassau counties) — indigent criminal defense across northeast Florida.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "Circuit public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Wake County": {
+   "trackers": [
+    {
+     "name": "Wake County Public Defender (NC IDS)",
+     "url": "https://www.ncids.org/counties/wake/",
+     "desc": "Raleigh / Wake County public defender — part of North Carolina’s statewide Indigent Defense Services system, providing criminal defense to people who cannot afford counsel.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Milwaukee County": {
+   "trackers": []
+  },
+  "Ramsey County": {
+   "trackers": [
+    {
+     "name": "Ramsey County Public Defender (MN 2nd District)",
+     "url": "https://www.ramseycountymn.gov/residents/public-safety-law/courts-public-defender",
+     "desc": "St. Paul / Ramsey County public defender (Minnesota’s Second Judicial District) — represents adults and juveniles accused of crimes and parents/children in child-protection cases, via the Minnesota Board of Public Defense.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "District public defender",
+     "tier": "county",
+     "status": "active"
+    },
+    {
+     "name": "Neighborhood Justice Center (St. Paul)",
+     "url": "https://www.njcinc.org",
+     "desc": "St. Paul community law office — comprehensive criminal defense for low-income people with an emphasis on outreach to communities of color across the East Metro.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "advocacy",
+     "type": "advocacy-opinion",
+     "kind": "advocacy",
+     "focus": "Community defense",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Fairfax County": {
+   "trackers": [
+    {
+     "name": "Fairfax Public Defender (Virginia IDC)",
+     "url": "https://www.vadefenders.org/vidc_offices/",
+     "desc": "Public defender serving the City and County of Fairfax — one of the Virginia Indigent Defense Commission’s offices, handling trial and appellate cases in General District, Juvenile and Circuit Courts.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County/city public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Richmond": {
+   "trackers": [
+    {
+     "name": "Richmond Public Defender (Virginia IDC)",
+     "url": "https://www.vadefenders.org/richmond-office/",
+     "desc": "Public defender for the City of Richmond — a Virginia Indigent Defense Commission office providing trial and appellate criminal defense.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "City public defender",
+     "tier": "municipal",
+     "status": "active"
+    }
+   ]
+  },
+  "Norfolk": {
+   "trackers": [
+    {
+     "name": "Norfolk Public Defender (Virginia IDC)",
+     "url": "https://www.vadefenders.org/vidc_offices/",
+     "desc": "Public defender for the City of Norfolk — a Virginia Indigent Defense Commission office providing indigent criminal defense in the Tidewater region.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "City public defender",
+     "tier": "municipal",
+     "status": "active"
+    }
+   ]
+  },
+  "Montgomery County|Ohio": {
+   "trackers": [
+    {
+     "name": "Montgomery County Public Defender (Dayton)",
+     "url": "https://mcpdohio.com",
+     "desc": "Dayton / Montgomery County public defender — grew from the 1972 Miami Valley Public Defender Project; represents people charged with any level of felony or jailable misdemeanor, juveniles in delinquency/traffic/truancy cases, and extradition matters.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Oakland County|Michigan": {
+   "trackers": [
+    {
+     "name": "Oakland County Public Defender",
+     "url": "https://www.oakgov.com/government/indigent-defense-services/public-defenders-office",
+     "desc": "Oakland County, Michigan public defender (metro Detroit suburbs) — indigent criminal defense under the county’s Indigent Defense Services division.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Eaton County|Michigan": {
+   "trackers": [
+    {
+     "name": "Eaton County Public Defender",
+     "url": "https://www.eatoncounty.org/524/Public-Defender-Office",
+     "desc": "Eaton County, Michigan public defender (Lansing area) — representation of indigent people charged with misdemeanors and felonies.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Oklahoma County": {
+   "trackers": [
+    {
+     "name": "Oklahoma County Public Defender (OKC)",
+     "url": "https://www.oklahomacounty.org/departments/public-defender",
+     "desc": "Oklahoma City / Oklahoma County public defender — defense for indigent people in misdemeanors, felonies, capital crimes and appeals, plus court-appointed representation of children in juvenile/deprived cases and people in civil-commitment hearings.",
+     "tags": [
+      "defense:publicdefender",
+      "capital:deathrow"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
+     "tier": "county",
+     "status": "active"
+    }
+   ]
+  },
+  "Tulsa County": {
+   "trackers": [
+    {
+     "name": "Tulsa County Public Defender",
+     "url": "https://www2.tulsacounty.org/government/departments-offices/public-defender-s/",
+     "desc": "Tulsa County, Oklahoma public defender — indigent criminal defense for county residents.",
+     "tags": [
+      "defense:publicdefender"
+     ],
+     "voice": "official",
+     "type": "institutional",
+     "kind": "institution",
+     "focus": "County public defender",
      "tier": "county",
      "status": "active"
     }
